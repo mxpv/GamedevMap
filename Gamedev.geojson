@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.781117, 35.791540]
+            },
+            "properties": {
+                "Name": "Epic Games",
+                "Type": "Developer",
+                "City": "Cary",
+                "Country": "United States",
+                "Site": "http://www.epicgames.com",
+                "Phone": "(919) 854-0070",
+                "Address": "Epic Games, Inc. 620 Crossroads Blvd Cary, NC 27518",
+                "Year": "1991"
+            }
+        }
+    ]
+}
