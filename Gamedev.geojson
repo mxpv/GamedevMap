@@ -45666,26 +45666,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5247,
-                    50.4501
-                ]
-            },
-            "properties": {
-                "Name": "NewFX Games",
-                "Type": "Mobile",
-                "City": "Kiev",
-                "Country": "Ukraine",
-                "Site": "http://www.newfxgames.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -1.13065445,
                     37.99224
                 ]
