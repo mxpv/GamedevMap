@@ -3346,8 +3346,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.794693,
-                    33.68395
+                    -117.744797,
+                    33.677221
                 ]
             },
             "properties": {
@@ -3356,9 +3356,9 @@
                 "City": "Irvine",
                 "Country": "United States",
                 "Site": "http://games.amazon.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "(949) 358-7000",
+                "Address": "123 Technology Dr, Irvine, CA 92618",
+                "Year": "2012"
             }
         },
         {
@@ -7186,8 +7186,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.332733,
-                    47.60621
+                    -122.361773,
+                    47.621081
                 ]
             },
             "properties": {
@@ -7197,7 +7197,7 @@
                 "Country": "United States",
                 "Site": "http://www.bigfishgames.com",
                 "Phone": "",
-                "Address": "",
+                "Address": "333 Elliott Ave W #200, Seattle, WA 98119",
                 "Year": ""
             }
         },
@@ -30026,8 +30026,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.332916,
-                    47.60621
+                    -122.364064,
+                    47.568160
                 ]
             },
             "properties": {
@@ -30037,7 +30037,7 @@
                 "Country": "United States",
                 "Site": "http://www.hardsuitlabs.com",
                 "Phone": "",
-                "Address": "",
+                "Address": "4025 Delridge Way SW #210, Seattle, WA 98106",
                 "Year": ""
             }
         },
@@ -59386,8 +59386,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.27108,
-                    37.558548
+                    -122.270842,
+                    37.561582
                 ]
             },
             "properties": {
@@ -59396,9 +59396,9 @@
                 "City": "Foster City",
                 "Country": "United States",
                 "Site": "http://www.sanzaru.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "(650) 312-8070",
+                "Address": "1065 E Hillsdale Blvd Suite 306, Foster City, CA 94404",
+                "Year": "2006"
             }
         },
         {
