@@ -44886,8 +44886,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.491188,
-                    34.019455
+                    -118.470981,
+                    34.028514
                 ]
             },
             "properties": {
@@ -44897,8 +44897,8 @@
                 "Country": "United States",
                 "Site": "http://www.naughtydog.com",
                 "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Address": "2425 Olympic Blvd, Ste. 300, Santa Monica CA, 90404",
+                "Year": "1994"
             }
         },
         {
@@ -58106,8 +58106,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.68767,
-                    43.4675179
+                    -79.679763,
+                    43.515228
                 ]
             },
             "properties": {
@@ -58116,8 +58116,8 @@
                 "City": "Oakville",
                 "Country": "Canada",
                 "Site": "http://www.rockstartoronto.com",
-                "Phone": "",
-                "Address": "",
+                "Phone": "+1 905-829-2203",
+                "Address": "2871 Brighton Rd, Oakville, ON L6H 6C9, Canada",
                 "Year": ""
             }
         },
@@ -66156,9 +66156,9 @@
                 "City": "Bellevue",
                 "Country": "United States",
                 "Site": "http://www.suckerpunch.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "(425) 649-2192",
+                "Address": "City Center Bellevue, 500 108th Ave NE #200, Bellevue, WA 98004",
+                "Year": "1997"
             }
         },
         {
@@ -74346,8 +74346,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.200676,
-                    47.61038
+                    -122.194378,
+                    47.614683
                 ]
             },
             "properties": {
@@ -74356,8 +74356,8 @@
                 "City": "Bellevue",
                 "Country": "United States",
                 "Site": "http://www.valvesoftware.com",
-                "Phone": "",
-                "Address": "",
+                "Phone": "(425) 889-9642",
+                "Address": "Skyline Tower, 10900 NE 4th St #500, Bellevue, WA 98004",
                 "Year": "1996"
             }
         },
