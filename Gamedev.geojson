@@ -30706,8 +30706,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.27,
-                    47.61038
+                    -122.186304,
+                    47.623586
                 ]
             },
             "properties": {
@@ -30716,8 +30716,8 @@
                 "City": "Bellevue",
                 "Country": "United States",
                 "Site": "http://www.hiddenpath.com",
-                "Phone": "",
-                "Address": "",
+                "Phone": "(425) 452-7284",
+                "Address": "1407 116th Ave NE #100, Bellevue, WA 98004",
                 "Year": ""
             }
         },
@@ -43546,8 +43546,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.28,
-                    47.61038
+                    -122.168670,
+                    47.575897
                 ]
             },
             "properties": {
@@ -43557,7 +43557,7 @@
                 "Country": "United States",
                 "Site": "http://www.motiga.com",
                 "Phone": "",
-                "Address": "",
+                "Address": "12819 SE 38th St #335, Bellevue, WA 98006",
                 "Year": ""
             }
         },
