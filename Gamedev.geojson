@@ -63306,8 +63306,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.21,
-                    47.61038
+                    -122.180885,
+                    47.610688
                 ]
             },
             "properties": {
@@ -63317,7 +63317,7 @@
                 "Country": "United States",
                 "Site": "http://www.soulboundstudios.com",
                 "Phone": "",
-                "Address": "",
+                "Address": "11911 NE 1st St, Bellevue, WA 98005",
                 "Year": ""
             }
         },
@@ -66126,8 +66126,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.211,
-                    47.61038
+                    -122.195634,
+                    47.615123
                 ]
             },
             "properties": {
@@ -72866,8 +72866,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.214,
-                    47.61038
+                    -122.196832,
+                    47.614328
                 ]
             },
             "properties": {
@@ -72877,7 +72877,7 @@
                 "Country": "United States",
                 "Site": "http://www.uberent.com",
                 "Phone": "",
-                "Address": "",
+                "Address": "One Center, Bellevue,, 411 108th Ave NE, Bellevue, WA 98004",
                 "Year": ""
             }
         },
@@ -75346,8 +75346,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.215,
-                    47.61038
+                    -122.195749,
+                    47.615177
                 ]
             },
             "properties": {
@@ -75356,8 +75356,8 @@
                 "City": "Bellevue",
                 "Country": "United States",
                 "Site": "http://www.wgcells.com",
-                "Phone": "",
-                "Address": "",
+                "Phone": "(425) 201-4142",
+                "Address": "500 108th Ave NE #700, Bellevue, WA 98004",
                 "Year": ""
             }
         },
