@@ -826,8 +826,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5235,
-                    50.4501
+                    30.492972,
+                    50.491680
                 ]
             },
             "properties": {
@@ -836,9 +836,11 @@
                 "City": "Kiev",
                 "Country": "Ukraine",
                 "Site": "http://www.4a-games.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "+380 44 3900017",
+                "Address": "Moskovs'kyi Ave, 21А, Kiev, Kyivs'ka oblast, Ukraine, 04073",
+                "Year": "2005",
+                "Facebook": "https://www.facebook.com/4aGames",
+                "Number of employees": "80"
             }
         },
         {
