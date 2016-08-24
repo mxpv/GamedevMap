@@ -14348,8 +14348,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.682129,
-                    50.1109238
+                    8.672564,
+                    50.121567
                 ]
             },
             "properties": {
@@ -14358,9 +14358,14 @@
                 "City": "Frankfurt am Main",
                 "Country": "Germany",
                 "Site": "http://www.crytek.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "+49 69 21977660",
+                "Address": "Grüneburgweg 16-18, 60322 Frankfurt am Main, Germany",
+                "Year": "1999",
+                "Headquarters": "Frankfurt, Germany",
+                "Founders": "Faruk Yerli, Avni Yerli, Cevat Yerli",
+                "Facebook": "https://www.facebook.com/crytek",
+                "YouTube": "http://www.youtube.com/crytek",
+                "Twitter": "@crytek"
             }
         },
         {
