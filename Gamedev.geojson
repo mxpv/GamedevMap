@@ -40986,8 +40986,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.0038223,
-                    55.60498
+                    13.003450,
+                    55.601243
                 ]
             },
             "properties": {
@@ -40996,9 +40996,13 @@
                 "City": "Malmo",
                 "Country": "Sweden",
                 "Site": "http://www.massive.se",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "+46-40-600 10 00",
+                "Fax": "+46-40-600 10 99",
+                "Address": "Drottninggatan 34, 211 41 Malmö",
+                "Year": "1997",
+                "LinkedIn": "https://www.linkedin.com/company/massive---a-ubisoft-studio",
+                "Twitter": "https://twitter.com/ubimassive",
+                "facebook": "https://www.facebook.com/Ubisoft.Massive"
             }
         },
         {
