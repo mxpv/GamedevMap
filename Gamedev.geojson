@@ -14866,8 +14866,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.06863,
-                    59.3293228
+                    18.070534,
+                    59.313493
                 ]
             },
             "properties": {
@@ -14876,9 +14876,12 @@
                 "City": "Stockholm",
                 "Country": "Sweden",
                 "Site": "http://www.dice.se",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
+                "Phone": "+46 8 658 78 00",
+                "Address": "104 60, Södermalmsallén 36, 118 28 Stockholm, Sweden",
+                "Year": "1992",
+                "LinkedIn": "https://www.linkedin.com/company/dice-ea-digital-illusions-ce-ab-",
+                "Twitter": "@EA_DICE",
+                "Instagram": "@EA.DICE"
             }
         },
         {
