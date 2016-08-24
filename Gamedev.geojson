@@ -29146,8 +29146,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.895175,
-                    52.3702164
+                    4.898663,
+                    52.365706
                 ]
             },
             "properties": {
@@ -29156,8 +29156,8 @@
                 "City": "Amsterdam",
                 "Country": "Netherlands",
                 "Site": "http://www.guerrilla-games.com",
-                "Phone": "",
-                "Address": "",
+                "Phone": "(020) 427 2277",
+                "Address": "Herengracht 601, 1017 CE Amsterdam",
                 "Year": ""
             }
         },
