@@ -18943,7 +18943,7 @@
             "properties": {
                 "Name": "Eagle Dynamics",
                 "Type": "Developer",
-                "City": "Moscow",
+                "City": "Dubna",
                 "Country": "Russia",
                 "Site": "http://www.digitalcombatsimulator.com",
                 "Phone": "",
@@ -45108,8 +45108,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6191,
-                    55.755825
+                    37.658239,
+                    55.763976
                 ]
             },
             "properties": {
@@ -73188,8 +73188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6201,
-                    55.755825
+                    37.536305,
+                    55.746504
                 ]
             },
             "properties": {
@@ -74168,8 +74168,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6202,
-                    55.755825
+                    37.561603,
+                    55.744013
                 ]
             },
             "properties": {
@@ -78608,8 +78608,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6203,
-                    55.755825
+                    37.490296,
+                    55.803668
                 ]
             },
             "properties": {
