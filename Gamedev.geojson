@@ -206,8 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6173,
-                    55.755825
+                    37.634829,
+                    55.723793
                 ]
             },
             "properties": {
@@ -2528,8 +2528,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6174,
-                    55.755825
+                    37.608925,
+                    55.740816
                 ]
             },
             "properties": {
@@ -3168,8 +3168,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.20888,
-                    51.6754951
+                    39.180775,
+                    51.680628
                 ]
             },
             "properties": {
@@ -3188,8 +3188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6175,
-                    55.755825
+                    37.537644,
+                    55.796963
                 ]
             },
             "properties": {
@@ -4878,26 +4878,6 @@
                 "City": "Orlando",
                 "Country": "United States",
                 "Site": "http://www.astrocrow.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.6176,
-                    55.755825
-                ]
-            },
-            "properties": {
-                "Name": "Astrum Online Entertainment Group",
-                "Type": "Online",
-                "City": "Moscow",
-                "Country": "Russia",
-                "Site": "http://www.astrumonline.ru",
                 "Phone": "",
                 "Address": "",
                 "Year": ""
@@ -9948,8 +9928,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6178,
-                    55.755825
+                    37.629066,
+                    55.673928
                 ]
             },
             "properties": {
@@ -13868,8 +13848,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6179,
-                    55.755825
+                    37.662823,
+                    55.738088
                 ]
             },
             "properties": {
@@ -18196,28 +18176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.20889,
-                    51.6754951
-                ]
-            },
-            "properties": {
-                "Name": "Dynamic Pixels",
-                "Type": "Developer",
-                "City": "Voronezh",
-                "Country": "Russia",
-                "Site": "http://www.softdp.com",
-                "Phone": "",
-                "Address": "",
-                "Year": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.618,
-                    55.755825
+                    37.173633,
+                    55.983548
                 ]
             },
             "properties": {
@@ -18225,7 +18185,7 @@
                 "Type": "Developer",
                 "City": "Moscow",
                 "Country": "Russia",
-                "Site": "http://www.softdp.com",
+                "Site": "http://www.dynamicpixels.com/",
                 "Phone": "",
                 "Address": "",
                 "Year": ""
@@ -19476,8 +19436,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6182,
-                    55.755825
+                    37.581918,
+                    55.747288
                 ]
             },
             "properties": {
@@ -24236,8 +24196,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6183,
-                    55.755825
+                    37.720217,
+                    55.783515
                 ]
             },
             "properties": {
@@ -24636,8 +24596,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6184,
-                    55.755825
+                    37.653228,
+                    55.855127
                 ]
             },
             "properties": {
@@ -25696,8 +25656,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6185,
-                    55.755825
+                    37.583621,
+                    55.750380
                 ]
             },
             "properties": {
@@ -28136,8 +28096,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6186,
-                    55.755825
+                    37.653210,
+                    55.708349
                 ]
             },
             "properties": {
@@ -35896,8 +35856,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6188,
-                    55.755825
+                    37.634917,
+                    55.744047
                 ]
             },
             "properties": {
@@ -35916,8 +35876,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    132.006454,
-                    43.17374
+                    131.929005,
+                    43.112776
                 ]
             },
             "properties": {
@@ -46248,16 +46208,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.6192,
-                    55.755825
+                    37.442295,
+                    55.709468
                 ]
             },
             "properties": {
-                "Name": "Nikita",
+                "Name": "Nikita online",
                 "Type": "Developer",
                 "City": "Moscow",
                 "Country": "Russia",
-                "Site": "http://www.nikita.ru",
+                "Site": "http://www.nikitaonline.ru/",
                 "Phone": "",
                 "Address": "",
                 "Year": ""
